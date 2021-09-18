@@ -1,2 +1,15 @@
-# react-testing-libarary-demo
-try react test demo
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
